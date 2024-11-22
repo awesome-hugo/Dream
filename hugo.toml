@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'A Hugo theme named Dream.'
+theme = 'dream'
